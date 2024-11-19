@@ -1,1 +1,1 @@
-print('Firt app in python !')
+print('First app in python !')
